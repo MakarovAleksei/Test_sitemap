@@ -6,7 +6,7 @@
     "psr-4": {
         "Sitemap\\": "Test_sitemap/"
     }
-  }
+  },
   "repositories": [
     {
       "type": "git",
