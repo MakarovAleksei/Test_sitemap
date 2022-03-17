@@ -1,6 +1,15 @@
-"repositories": [
+"name": "for_test",
+  "description": "Just for test",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+        "Sitemap\\": ""
+    }
+  }
+  "repositories": [
     {
       "type": "git",
       "url": "https://github.com/MakarovAleksei/Test_sitemap"
     }
-]
+  ]
