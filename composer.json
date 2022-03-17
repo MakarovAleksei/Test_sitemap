@@ -1,3 +1,4 @@
+{
 "name": "for_test",
   "description": "Just for test",
   "require": {
@@ -13,3 +14,4 @@
       "url": "https://github.com/MakarovAleksei/Test_sitemap"
     }
   ]
+}
